@@ -1,0 +1,16 @@
+{
+  "name": "plugin_timer_and_clock",
+  "version": "0.0.1",
+  "description": "timer and clock plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel index.html"
+  },
+  "author": "Ivan Bortnik <disturbe@bk.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2"
+  }
+}
